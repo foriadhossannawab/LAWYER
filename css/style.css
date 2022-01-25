@@ -232,7 +232,7 @@ header {
     overflow: hidden;
 }
 
-.client_content::before {
+.client_img::before {
     content: '';
     position: absolute;
     width: 100%;
